@@ -3,7 +3,7 @@
 Mini Calculator App Normal Design View
 ![Screenshot 2024-12-13 055231](https://github.com/user-attachments/assets/8112168c-f883-45bb-8d0b-4f46bfcd2854)
 
-Additon Function Of The Two Numbers
+Addition Function Of The Two Numbers
 ![Screenshot 2024-12-13 055250](https://github.com/user-attachments/assets/6af43b8c-a0a8-4a90-945b-6a9f1e00f7e5)
 
 Difference Function Of The Two Numbers
